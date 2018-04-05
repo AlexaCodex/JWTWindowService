@@ -1,0 +1,15 @@
+C:\Users\RS\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\RS\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\RS\source\repos\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\RS\source\repos\WindowsService1\WindowsService1\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\RS\source\repos\WindowsService1\WindowsService1\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RS\source\repos\WindowsService1\WindowsService1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RS\source\repos\WindowsService1\WindowsService1\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RS\source\repos\WindowsService1\WindowsService1\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\RS\source\repos\WindowsService1\WindowsService1\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\RS\source\repos\WindowsService1\WindowsService1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RS\source\repos\WindowsService1\WindowsService1\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\RS\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojResolveAssemblyReference.cache
+C:\Users\RS\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\RS\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\RS\source\repos\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
